@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hamidreza Fallahi
 
-<!--
-**hamidrezafallahi/hamidrezafallahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+سلام! من حمیدرضا فلاحی هستم، توسعه‌دهنده نرم‌افزار و علاقه‌مند به توسعه وب و کتابخانه‌های React.
 
-Here are some ideas to get you started:
+## درباره من
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 ساکن ایران  
+- 💻 متخصص در React، TypeScript و توسعه کتابخانه‌های UI  
+- 🚀 علاقه‌مند به متن‌باز و اشتراک دانش  
+- 📫 راه‌های ارتباطی در بخش «تماس با من»  
+
+## مهارت‌ها
+
+- زبان‌های برنامه‌نویسی:  
+  - JavaScript, TypeScript, C#  
+- فریم‌ورک‌ها و کتابخانه‌ها:  
+  - React, Next.js, Tailwind CSS  
+  - مدیریت وضعیت با Redux و RTK Query  
+- تجربه معماری:  
+  - توسعه سیستم‌های ERP  
+  - الگوی طراحی Atomic Design  
+- حوزه تخصصی:  
+  - توسعه Frontend و رابط کاربری  
+
+## تماس با من
+
+- 📧 ایمیل: hamidreza.lipar@gmail.com  
+- 📱 موبایل (تلگرام/واتساپ): 09121720295  
+- 🔗 لینکدین: [hamidreza falahi](https://www.linkedin.com/in/hamidreza-falahi)  
+- 🐙 گیت‌هاب: [hamidrezafallahi](https://github.com/hamidrezafallahi)  
+
+---
+
+*لطفاً برای به‌روزرسانی اطلاعات با من در ارتباط باشید.*
