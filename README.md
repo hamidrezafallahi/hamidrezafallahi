@@ -1,7 +1,7 @@
 # Hamidreza Fallahi
 
-<h1 align="center">Hi 👋, I'm hamidreza falahi</h1>
-<h3 align="center">A frontend developer from Iran</h3>
+<h1 align="center">hamidreza falahi</h1>
+<h3 align="center">frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidrezafallahi&label=Profile%20views&color=0e75b6&style=plastic" alt="hamidrezafallahi" /> </p>
 
 
