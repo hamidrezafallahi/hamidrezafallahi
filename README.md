@@ -31,7 +31,8 @@
 - 📱 موبایل (تلگرام/واتساپ): 09121720295  
 - 🔗 لینکدین: [hamidreza falahi](https://www.linkedin.com/in/hamidreza-falahi)  
 - 🐙 گیت‌هاب: [hamidrezafallahi](https://github.com/hamidrezafallahi)  
-
+<a href="https://linkedin.com/in/hamidreza-falahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidreza-falahi" height="30" width="40" /></a>
+<a href="https://instagram.com/hamidreza.falahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidreza.falahi" height="30" width="40" /></a>
 ---
 
 *لطفاً برای به‌روزرسانی اطلاعات با من در ارتباط باشید.*
