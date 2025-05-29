@@ -1,6 +1,9 @@
 # Hamidreza Fallahi
 
-سلام! من حمیدرضا فلاحی هستم، توسعه‌دهنده نرم‌افزار و علاقه‌مند به توسعه وب و کتابخانه‌های React.
+<h1 align="center">Hi 👋, I'm hamidreza falahi</h1>
+<h3 align="center">A frontend developer from Iran</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidrezafallahi&label=Profile%20views&color=0e75b6&style=social" alt="hamidrezafallahi" /> </p>
+
 
 ## درباره من
 
