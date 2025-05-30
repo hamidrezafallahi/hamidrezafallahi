@@ -57,8 +57,24 @@ React, Next.js, Tailwind CSS
 - 📧 ایمیل: hamidreza.lipar@gmail.com  
 - 📱 موبایل (تلگرام/واتساپ): 09121720295  
 - 🔗 لینکدین: [hamidreza falahi](https://www.linkedin.com/in/hamidreza-falahi)  
-- 🐙 گیت‌هاب: [hamidrezafallahi](https://github.com/hamidrezafallahi)  
+- 🐙 گیت‌هاب: [hamidrezafallahi](https://github.com/hamidrezafallahi)
+- 
+  <a href="mailto:hamidreza.lipar@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
+  <a href="https://t.me/yourusername" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+  </a>
+
+<a href="https://t.me/yourusername" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+</a>
+
+<a href="https://wa.me/1234567890" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/hamidreza-falahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidreza-falahi" height="30" width="40" /></a>
+
 <a href="https://instagram.com/hamidreza.falahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidreza.falahi" height="30" width="40" /></a>
 ---
 
