@@ -42,9 +42,9 @@
 </p>
 
 - زبان‌های برنامه‌نویسی:  
-  - JavaScript, TypeScript, C#  
+JavaScript, TypeScript, C#  
 - فریم‌ورک‌ها و کتابخانه‌ها:  
-  - React, Next.js, Tailwind CSS  
+React, Next.js, Tailwind CSS  
   - مدیریت وضعیت با Redux و RTK Query  
 - تجربه معماری:  
   - توسعه سیستم‌های ERP  
