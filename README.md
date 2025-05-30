@@ -39,10 +39,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
 
-  <!-- RTK Query (via Redux Toolkit) -->
-  <a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank" rel="noreferrer">
-    <img src="https://redux-toolkit.js.org/img/redux-toolkit.svg" alt="rtk query" width="40" height="40"/>
-  </a>
 </p>
 
 - زبان‌های برنامه‌نویسی:  
